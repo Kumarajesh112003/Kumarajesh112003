@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1500&color=00D4FF&center=true&vCenter=true&repeat=false&width=900&height=50&lines=Teaching+machines+to+think%2C+one+dataset+at+a+time)](https://github.com/Kumarajesh112003)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kumarajesh112003&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![Profile Views](https://hits.sh/github.com/Kumarajesh112003.svg?style=flat-square&label=Profile%20Views&color=0e75b6)](https://hits.sh/github.com/Kumarajesh112003/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kumar-625b53302/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajeshrkk112003@gmail.com)
 
@@ -16,9 +16,8 @@
 
 Computer Science undergrad at **IIIT Kota** and an **AI Intern at Galaxy Office Automation Pvt Ltd**, passionate about building machine learning and GenAI systems that solve real-world problems.
 
-- 🔭 Working on **predictive modeling, time-series forecasting and voice AI**
+- 🔭 Working on **predictive modelling, time series forecasting**
 - 🌱 Exploring **RAG, LLM applications and applied ML**
-- 🤝 Placement Coordinator at my college's Training & Placement Cell
 
 ---
 
