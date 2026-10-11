@@ -36,7 +36,7 @@ Computer Science undergrad at **IIIT Kota**, passionate about building machine l
 
 - 🇮🇳 **Smart India Hackathon 2025** National Finalist
 - 🤖 **GenAI Buildathon (Nxtwave × OpenAI Academy)** Winner, Rajasthan
-- 📊 **Semi-Finalist at Trilytics'25 (IIM Calcutta)** and **Flipkart GRID 8.0** Semi-Finalist
+- 📊 **Semi-Finalist at Trilytics'25 (IIM Calcutta)** and **Flipkart GRID 8.0**
 
 ---
 
