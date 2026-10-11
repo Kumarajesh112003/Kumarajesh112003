@@ -14,7 +14,7 @@
 
 ## 👋 Hi, I'm Rajesh
 
-Computer Science undergrad at **IIIT Kota** and an **AI Intern at Galaxy Office Automation Pvt Ltd**, passionate about building machine learning and GenAI systems that solve real-world problems.
+Computer Science undergrad at **IIIT Kota**, passionate about building machine learning and GenAI systems that solve real-world problems.
 
 - 🔭 Working on **predictive modelling, time series forecasting**
 - 🌱 Exploring **RAG, LLM applications and applied ML**
